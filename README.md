@@ -26,3 +26,11 @@ Figure4.fig
 Figure7.fig
 Figure9.fig
 Figure12.fig
+
+Citation Information
+
+If you use the above files or utilize knowledge from the article, please cite our work!
+
+Citation (IEEE format): 
+
+Katherine A. Kim and Thomas G. Wilson Jr., "Simulation Technique and Mathematical Basis for Faster AC Analysis of Power Factor Correction Boost Converters," IEEE Access, vol. 12, pp. 165130-165142, 2024, doi: 10.1109/ACCESS.2024.3491299.
