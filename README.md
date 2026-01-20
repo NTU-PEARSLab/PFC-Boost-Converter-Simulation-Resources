@@ -1,6 +1,8 @@
 # PFC-Boost-Converter-Simulation-Resources
 These are resources for the article “Simulation Technique and Mathematical Basis for Faster AC Analysis of Power Factor Correction Boost Converters” by Katherine A. Kim and Thomas G. Wilson Jr., published in IEEE Access.
 
+IEEE Xplore Link: https://ieeexplore.ieee.org/document/10742374
+
 SIMPLIS File Download
 These files output the AC analysis (frequency response) for the control loop, input impedance, and output impedance of a PFC boost converter. Simulations are provided for both an AC voltage source and a DC voltage source to the PFC boost converter. The DC voltage source simulates much faster and gives almost the same results as the AC source for the control loop and output impedance measurements, but not the input impedance. In short, the DC source should NOT be used to measure input impedance , but the file is provided here as a reference. Files are ready to run.
 
